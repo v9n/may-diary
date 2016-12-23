@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://maylyn.im/post/welcome/</loc>
+    <lastmod>2016-12-22T21:53:55-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/categories/diary/</loc>
+    <lastmod>2016-12-22T21:53:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/tags/diarylife/</loc>
+    <lastmod>2016-12-22T21:53:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/</loc>
+    <lastmod>2016-12-22T21:53:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/categories/life/</loc>
+    <lastmod>2016-12-22T21:53:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/post/</loc>
+    <lastmod>2016-12-22T21:53:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://maylyn.im/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

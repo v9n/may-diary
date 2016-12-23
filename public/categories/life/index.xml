@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on I am Maylyn, I live with my parent in sunny California</title>
+    <link>https://maylyn.im/categories/life/index.xml</link>
+    <description>Recent content in Life on I am Maylyn, I live with my parent in sunny California</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://maylyn.im/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://maylyn.im/post/welcome/</link>
+      <pubDate>Thu, 22 Dec 2016 21:53:55 -0800</pubDate>
+      
+      <guid>https://maylyn.im/post/welcome/</guid>
+      <description>&lt;p&gt;Welcome to my corner&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
