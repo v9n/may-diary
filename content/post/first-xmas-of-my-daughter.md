@@ -42,4 +42,10 @@ này còn bị bón nữa. Mochi gần 1 tuổi rồi, nếu dùng sức hét c�
 thì chắc ko bón đâu nhg Mochi chỉ thích hét hò thôi, không thích ị. Cứ
 lâu lâu bà phải nhét đít cho ị.
 
+hi giờ ngoan lắm, chịu  ngồi chơi với ba, ba code cho chi ngồi trong lòng, chi nhìn 
+màn hình say xưa. Lúc viết dòng này là 19:27, chi ngồi trong lòng ba, hai chân vắt vẻo
+nhìn màn hình say xưa.
+
+Chi lớn rồi ngoan hơn hẳn. Có những lúc quấy lắm. Nhg biết im lặng, kiên nhẫn,chịu chơi
+1 mình. Nói chuyện nhiều hơn. Hét to hơn. Nhưng lúc chi lắn lê trên giuuwon:w
 
