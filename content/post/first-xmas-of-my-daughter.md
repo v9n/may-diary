@@ -47,5 +47,18 @@ màn hình say xưa. Lúc viết dòng này là 19:27, chi ngồi trong lòng ba
 nhìn màn hình say xưa.
 
 Chi lớn rồi ngoan hơn hẳn. Có những lúc quấy lắm. Nhg biết im lặng, kiên nhẫn,chịu chơi
-1 mình. Nói chuyện nhiều hơn. Hét to hơn. Nhưng lúc chi lắn lê trên giuuwon:w
+1 mình. Nói chuyện nhiều hơn. Hét to hơn. Nhưng lúc chi lắn lê trên giuuwongf nhìn 
+cute lắm.
 
+Dạo này cuối năm, chi bắt đầu hay bón, phải nhét đít mới chịu ị. Ba me đang cố
+tìm cách tập cho Chi đị ị đúng giờ.
+
+Ba dạo này thay tã cho Chi, bế CHi nhiều hơn vì mẹ bị chi quần cả năm. Ông bế Chi suốt 
+ngày, có thời gian ba tranh thủ làm được những gì ba làm được để reduce load
+cho mọi người. Nhưng ba vẫn chưa ru Chi ngủ đươc. Sáng nay ba cũng cho Chi bú được.
+Móng chân của Chi bị tróc, thương lắm. Ba mẹ tìm mãi mới có cái cắt móng chân vi ông
+là người thường giữ và cắt cho chi. 
+ắt cụt nó xuống 1 tí hi vọng chi ko thấy đâu và mau lành. Do chi quậy quá, đá chân
+liên tục, ba chỉ sợ chân này đá chân kia. May mà chi lỳ, bị vậy mà ko la hét gì.
+
+Chi là đứa bé chịu đau giỏi lắm, chích ngừa, bị trầy da, bị xước này nọ chả bao giờ khóc.
