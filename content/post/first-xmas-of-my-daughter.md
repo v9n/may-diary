@@ -61,4 +61,15 @@ là người thường giữ và cắt cho chi.
 ắt cụt nó xuống 1 tí hi vọng chi ko thấy đâu và mau lành. Do chi quậy quá, đá chân
 liên tục, ba chỉ sợ chân này đá chân kia. May mà chi lỳ, bị vậy mà ko la hét gì.
 
-Chi là đứa bé chịu đau giỏi lắm, chích ngừa, bị trầy da, bị xước này nọ chả bao giờ khóc.
+Chi là đứa bé chịu đau giỏi lắm, chích ngừa, bị trầy da, bị xước này nọ chả bao giờ khóc. Sáng nay ba thấy móng chan trái của chi bị xước ra. Tối nay về ba lại thấy chân phải bị xước tiếp. 
+
+Hôm nay ngày 24, cmas eve, ba mẹ đưa chi đi Christmast in the park. Chi thấy con nít nhiều,
+quậy phá lung tung, nhìn ra chiều thích thú. Cho vô tiệm cafe cứ hét ỉnh ỏi, ai 
+cũng nhìn chi cười quá trời. Có nhỏ kia cứ liếc Chi như thể chi là con trai. Hay có thể
+chi nhìn tomboy quá nó tưởng con trai kết model chi cũng có. Ba mẹ chụp cho chi đc nhiềuhình. Chiều về mệt, chi nằm ngủ trên tay bà luôn. Ngủ đứng ngủ ngồi. Thương ơi là
+thương. Ba mẹ thấy vậy, đem Chi về, Cho đi mua bánh. Để chi ngồi trên xe với ba, vậy
+mà chi dậy, mếu máo, bà phải mang vào tiệm bánh với ba, cười hơn hở.
+
+Tối nay cả nhà cắt bánh, chi cũng đc quay phim chụp ảnh đủ trò. Chơi vơi ông cả buổi rồiba cho Chi bú. Chi bú tí rồi cũng ngủ ngòi trên tay ba y như hồi chiều.
+
+Hi vọng đêm nay con gái ngủ thât ngon.
