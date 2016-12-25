@@ -1,11 +1,11 @@
 ---
-date: "2016-12-22T21:53:55-08:00"
+date: "2016-12-24T22:25:55-08:00"
 title: "Giáng sinh đầu tiên của Mochi"
 draft: true
 
 thumbnailImagePosition: left
-thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jpg
-coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
+thumbnailImage: http://www.picscristmas.com/wp-content/uploads/2015/10/2014-12-10_17.17.52_rDtVCGJ.jpg.420x225_q85_box-4046052592_crop_detail.jpg
+coverImage: "http://www.picscristmas.com/wp-content/uploads/2015/10/2014-12-10_17.17.52_rDtVCGJ.jpg.420x225_q85_box-4046052592_crop_detail.jpg"
 metaAlignment: center
 coverMeta: out
 categories:
