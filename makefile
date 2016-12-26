@@ -21,4 +21,7 @@ build_draft:
 	hugo --theme=mochi --buildDrafts
 
 deploy:
-	ssh kurei@noty "bash deploy-maylyn.sh"
+	ssh kurei@noty "cd /srv/http/domain/maylyn/current; \
+									git pull origin master; \
+									sudo chgrp -R www-data /srv/http/domain/maylyn; \
+									sudo chmod -R g+rx /srv/http/domain/maylyn"
