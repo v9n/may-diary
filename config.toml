@@ -6,6 +6,13 @@ theme = "mochi"
 paginate = "15" # secret?
 canonifyurls = true
 
+[Languages]
+  [Languages.en]
+  title = "I am Maylyn, I live with my parent in sunny California"
+  weight = 1
+  [Languages.en.params]
+  linkedin = "english-link"
+
 [author]
   name = "Maylyn Diep-Ha Nguyen"
   bio = "a lovely daughter of my parent"
