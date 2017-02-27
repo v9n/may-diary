@@ -1,8 +1,18 @@
 ---
 title: "chi lang"
-draft: true
+draft: false
 date: "2016-12-29T22:18:19-08:00"
 
+thumbnailImagePosition: left
+thumbnailImage: ""
+coverImage: ""
+metaAlignment: center
+coverMeta: out
+categories:
+  - diary
+  - life
+tags:
+  - diary,life
 ---
 
 Mấy hôm nay ba lu bu ko viết gì nhiều được cho Chi. Nhớ cái giọng ê a
