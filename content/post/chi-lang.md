@@ -1,10 +1,9 @@
-+++
-o
-title = "chi lang"
-draft = true
-date = "2016-12-29T22:18:19-08:00"
+---
+title: "chi lang"
+draft: true
+date: "2016-12-29T22:18:19-08:00"
 
-+++
+---
 
 Mấy hôm nay ba lu bu ko viết gì nhiều được cho Chi. Nhớ cái giọng ê a
 ngọt như đường của con gái. Nhờ có Mochi ba mới hiểu đc câu ngọt như mía

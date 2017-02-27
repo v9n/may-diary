@@ -13,7 +13,7 @@ asset:
 	find public -name "*.html" -print0 | xargs -0 -I filename /bin/bash -c "echo filename; sed 's/css\/main.css/css\/$(CSS_REV)/g' filename > tmp; mv tmp filename"
 
 generate:
-	hugo -t mochi -D
+	hugo -t mochi
 
 build: generate
 
