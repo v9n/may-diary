@@ -1,9 +1,19 @@
-+++
-date = "2017-01-13T09:14:30-08:00"
-title = "first mistake"
-draft = false
+---
+date: "2017-01-13T09:14:30-08:00"
+title: "first mistake"
+draft: false
 
-+++
+thumbnailImagePosition: left
+thumbnailImage: "/images/mistake-s.jpg"
+coverImage: "/images/mistake.jpg"
+metaAlignment: center
+coverMeta: out
+categories:
+  - diary
+  - life
+tags:
+  - diary,life
+---
 
 Hôm qua ba ở nhà với Chi. Ông à vừa đi là chi chơi tí rồi khóc. Ba cho
 bú, không bú. Làm sao cũng ko nìn khóc. Chi đánh bình sữa ra khỏi miệng
@@ -42,5 +52,3 @@ tồi tệ nhất có xảy ra cũng không có gì.
 Đừng vì những lỗi lầm nhỏ mà chét trân người. Hãy để dành sức lực, để
 đến ngày những lỗi lầm lớn nhất xảy đến, mình sẽ còn sức mạnh để đổi mặt
 và vượt qua nó. Con hiểu không?
-
-
